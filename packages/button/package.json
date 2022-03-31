@@ -1,6 +1,6 @@
 {
   "name": "um-button",
-  "version": "1.0.0",
+  "version": "0.0.5",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "lodash": "4"
-  }
+  },
+  "gitHead": "aa1f46aad9d923f4a692200aa2afe3cd89c74bdf"
 }
