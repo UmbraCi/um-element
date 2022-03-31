@@ -21,7 +21,9 @@ export const Text = ()=> ({
     },
     methods: {
         next(){
-            this.active++;
+            if(this.active < this.count){
+                this.active++;
+            }
         }
     },
 })
