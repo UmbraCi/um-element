@@ -4,7 +4,9 @@
   "description": "",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
-  "scripts": {},
+  "scripts": {
+    "del":"rimraf dist"
+  },
   "author": "",
   "license": "ISC"
 }
