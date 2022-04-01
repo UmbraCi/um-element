@@ -1,12 +1,12 @@
 {
   "name": "um-input",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "del":"rimraf dist"
+    "del": "rimraf dist"
   },
   "keywords": [],
   "author": "",

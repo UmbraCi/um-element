@@ -1,11 +1,11 @@
 {
   "name": "um-link",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "scripts": {
-    "del":"rimraf dist"
+    "del": "rimraf dist"
   },
   "author": "",
   "license": "ISC"
